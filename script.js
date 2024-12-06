@@ -1,3 +1,5 @@
+//COPYRIGHT (C) 2024 - SWATHYMOL SAJEEV | GNU General Public License v3.0
+
 function validateInput(){
     let inputField = document.getElementById("inputField");
     let inputValue = inputField.value.trim();
